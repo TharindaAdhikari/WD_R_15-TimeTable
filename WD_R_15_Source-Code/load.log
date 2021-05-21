@@ -1,0 +1,16 @@
+Line 3: Could not create reference: '{E3583FCE-0595-4681-9ACD-48F7805DEFE1}#1.0#0'.
+Line 384: Class glxpbuttonz.UserButtonz of control UserButtonz1 was not a loaded control class.
+Line 390: The property name _ExtentX in UserButtonz1 is invalid.
+Line 391: The property name _ExtentY in UserButtonz1 is invalid.
+Line 401: The property name Caption in UserButtonz1 is invalid.
+Line 402: The property name IconHighLiteColor in UserButtonz1 is invalid.
+Line 403: The property name CaptionHighLiteColor in UserButtonz1 is invalid.
+Line 405: The property name Checked in UserButtonz1 is invalid.
+Line 406: The property name ColorButtonHover in UserButtonz1 is invalid.
+Line 407: The property name ColorButtonUp in UserButtonz1 is invalid.
+Line 408: The property name ColorButtonDown in UserButtonz1 is invalid.
+Line 409: The property name BorderBrightness in UserButtonz1 is invalid.
+Line 410: The property name ColorBright in UserButtonz1 is invalid.
+Line 411: The property name DisplayHand in UserButtonz1 is invalid.
+Line 412: The property name ColorScheme in UserButtonz1 is invalid.
+Line 384: Property Picture in UserButtonz1 could not be set.
