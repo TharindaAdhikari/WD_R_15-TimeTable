@@ -1,5 +1,7 @@
 VERSION 5.00
-Begin VB.Form Student_Group_Managment 
+
+Begin VB.Form Student_Group_Managment
+
    BorderStyle     =   1  'Fixed Single
    Caption         =   " Student Group Managment"
    ClientHeight    =   8475
