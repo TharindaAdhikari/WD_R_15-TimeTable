@@ -1,4 +1,5 @@
 VERSION 5.00
+
 Begin VB.Form Add_New_Subject 
    BorderStyle     =   1  'Fixed Single
    Caption         =   "Add_New_Subject"
