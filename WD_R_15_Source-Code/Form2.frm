@@ -1,5 +1,7 @@
 VERSION 5.00
+
 Begin VB.Form Add_student 
+
    BorderStyle     =   1  'Fixed Single
    Caption         =   "Add Student Group "
    ClientHeight    =   8250
